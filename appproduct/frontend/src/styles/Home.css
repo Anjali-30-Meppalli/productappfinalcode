@@ -1,0 +1,18 @@
+.home-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+  }
+  
+  .text-section {
+    padding: 20px;
+  }
+  
+  .image-section {
+    width: 400px; /* Adjust width as needed */
+    height: 500px; /* Adjust height as needed */
+    background-size: cover;
+    background-position: center;
+  }
+  
